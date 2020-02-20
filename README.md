@@ -39,7 +39,7 @@ No example screen or layout will be provided to stimulate the candidate's creati
 
 Products and orders **must be stored in a database. For information persistence**.
 
-## Prazo
+## Deadline
 
 The deadline for this test is **15 days** after the test is available. Organize your time well!
 
