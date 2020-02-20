@@ -4,44 +4,44 @@
 
 # Código Font - Web FullStack test
 
-Teste do processo seletivo da Código Font para captação de novos talentos, desejando a vaga de desenvolvedor fullstack.
+Test of the Código Font selection process to attract new talents, wishing to become a fullstack developer.
 
-## Orientações iniciais
+## Initial guidelines
 
-O teste é baseado nas seguintes tecnologias recomendadas:
+The test is based on the following recommended technologies:
 
 - ReactJS
 - NodeJS/Express
 - MongoDB
 
-Para tal, uma ótima referência que deverá ser analisada para que o teste seja feito com êxito é [essa](https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/). Use e abuse das referências encontradas nesse tutorial para concluir o teste.
+For this, a great reference that must be analyzed for the test to be successful is [this](https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/). Use and abuse the references found in this tutorial to complete the test.
 
-Apesar disso, a tecnologia escolhida é opcional, portanto sinta-se livre para desenvolver na linguagem que você mais dominar.
+Despite this, the chosen technology is optional, so feel free to develop it in the language that you master more.
 
-Todo o código deverá ser feito levando em consideração o padrão definido no próprio tutorial (códigos que não seguirem o mesmo padrão, serão **desclassificados**).
+All code must be made taking into account the standard defined in the tutorial itself (codes that do not follow the same standard will be **disqualified**).
 
-O código que o próprio tutorial disponibiliza poderá ser utilizado, visto que o mesmo é utilizado somente como base, é necessário que você seja capaz de entender o que ele faz, pois, sem entender é impossível finalizar o teste.
+The code that the tutorial itself makes available can be used, since it is only used as a base, it is necessary that you are able to understand what it does, because without understanding it is impossible to finish the test.
 
-Qualquer código feito por outra pessoa, ou caso seja constatado plágio, o candidato será automaticamente **desclassificado do processo**.
+Any code made by another person, or if plagiarism is found, the candidate will be automatically **disqualified from the process**.
 
 ## O Teste
 
-O teste consiste na criação de uma mini loja online. Basicamente, o usuário do sistema deverá contar com as seguintes funcionalidades:
+The test consists of creating a mini online store. Basically, the system user must have the following features:
 
-1. Home page com alguns produtos em destaque
-2. Cadastrar/Editar novos produtos no sistema
-2. Buscar por algum produto por nome
-3. Ordenar produtos por menor/maior preço
-4. Adicionar/Remover produtos no carrinho
-5. Finalizar a compra e gerar um resumo do pedido
+1. Home page with some products highlighted
+2. Register / Edit new products in the system
+3. Search for a product by name
+4. Sort products by lowest / highest price
+5. Add / Remove products to cart
+6. Checkout and generate an order summary
 
-Nenhum exemplo de tela ou layout será fornecido para estimular a criatividade do candidato (utilize todos os seus conhecimentos em CSS para fazer um sistema lindo :) ). O uso de algum framework de estilização (Bootstrap, Semantic UI, **Material UI (recomendado)**) é opcional.
+No example screen or layout will be provided to stimulate the candidate's creativity (use all your knowledge of CSS to make a beautiful system :) ). The use of some styling framework (Bootstrap, Semantic UI, **Material UI (recommended)**) is optional.
 
-Os produtos e pedidos **deverão, obrigatóriamente, serem armazenados em um banco de dados. Para persistência das informações.**
+Products and orders **must be stored in a database. For information persistence**.
 
 ## Prazo
 
-O prazo para realização desse teste é de **15 dias** após a disponibilização do mesmo. Organize bem o seu tempo!
+The deadline for this test is **15 days** after the test is available. Organize your time well!
 
 ## Thanks
 
