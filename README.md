@@ -7,7 +7,6 @@
 Teste do processo seletivo da Código Font para captação de novos talentos, desejando a vaga de desenvolvedor fullstack.
 
 ## Orientações iniciais
-___
 
 O teste é baseado nas seguintes tecnologias recomendadas:
 
@@ -26,7 +25,6 @@ O código que o próprio tutorial disponibiliza poderá ser utilizado, visto que
 Qualquer código feito por outra pessoa, ou caso seja constatado plágio, o candidato será automaticamente **desclassificado do processo**.
 
 ## O Teste
-___
 
 O teste consiste na criação de uma mini loja online. Basicamente, o usuário do sistema deverá contar com as seguintes funcionalidades:
 
@@ -42,12 +40,10 @@ Nenhum exemplo de tela ou layout será fornecido para estimular a criatividade d
 Os produtos e pedidos **deverão, obrigatóriamente, serem armazenados em um banco de dados. Para persistência das informações.**
 
 ## Prazo
-___
 
 O prazo para realização desse teste é de **15 dias** após a disponibilização do mesmo. Organize bem o seu tempo!
 
 ## Thanks
-___
 
 Copyright © [Código Font 2020](https://codigofont.com/).
 
