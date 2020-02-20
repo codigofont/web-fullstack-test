@@ -24,7 +24,7 @@ The code that the tutorial itself makes available can be used, since it is only 
 
 Any code made by another person, or if plagiarism is found, the candidate will be automatically **disqualified from the process**.
 
-## O Teste
+## The challenge
 
 The test consists of creating a mini online store. Basically, the system user must have the following features:
 
